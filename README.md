@@ -46,9 +46,6 @@ Ensure you have a **C++ compiler** (such as `g++`) installed on your system.
 ## Contribution  
 Contributions are welcome! If you find any bugs or have suggestions, feel free to submit a pull request.  
 
-## License  
-📜 **MIT License** – Feel free to use and modify this project.  
 
----
 
 🚀 **Start tracking your workouts today and stay motivated!** 💪
